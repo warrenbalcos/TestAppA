@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Test App A</string>
     <string name="submit_button_label">Submit</string>
+    <string name="number_input_1_hint_message">input first number</string>
+    <string name="number_input_2_hint_message">input second number</string>
+    <string name="math_operations_title_text">Math Operations</string>
+    <string name="echo_operation_title_text">Echo Operation</string>
+    <string name="add_button_title_text">Add</string>
+    <string name="subtract_button_title_text">Subtract</string>
+    <string name="multiply_button_title_text">Multiply</string>
+    <string name="divide_button_title_text">Divide</string>
 </resources>

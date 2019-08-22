@@ -6,4 +6,7 @@
     <dimen name="margin_medium">12dp</dimen>
     <dimen name="margin_large">24dp</dimen>
 
+    <dimen name="text_small">8sp</dimen>
+    <dimen name="text_large">24sp</dimen>
+
 </resources>
