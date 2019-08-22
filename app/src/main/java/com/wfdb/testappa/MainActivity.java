@@ -91,4 +91,8 @@ public class MainActivity extends AppCompatActivity implements MainContract.View
         intent.putExtra(Constants.SUBMIT_ECHO_DATA, data);
         getApplicationContext().sendBroadcast(intent);
     }
+
+    public BroadcastReceiver getReceiver() {
+        return receiver;
+    }
 }
